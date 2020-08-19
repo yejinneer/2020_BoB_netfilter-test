@@ -11,5 +11,6 @@
 <img width = "800" src = "https://user-images.githubusercontent.com/58834907/90671390-9965ae80-e28f-11ea-9ced-a80ad4137c44.PNG">
 </div>
 
-
+ <br>
 https://gitlab.com/gilgil/sns/-/wikis/netfilter/netfilter <br>
+https://gitlab.com/gilgil/sns/-/wikis/netfilter/report <br>
